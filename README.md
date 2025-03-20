@@ -70,7 +70,7 @@ ccrypt -d password.txt.cpt
 - The script must be uploaded to a GitHub repository.
 - A README.md file should contain a short description of how the script works.
 
-# Licene & Author
+# License & Author
 - License: MIT
 - Author: Elizabeth Hovdal
 - GitHub: Fanmagoria 
