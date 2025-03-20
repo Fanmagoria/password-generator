@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# passord-generator
-=======
 # Password Generator
 
 This is a Bash script that generates random passwords based on user input.
